@@ -1,1 +1,6 @@
 # beziapp-twa
+
+
+ABANDONED. USE SOMETHING ELSE INSTEAD.
+
+-- SIJANEC
